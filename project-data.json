@@ -8,11 +8,13 @@
   "creator": "SHAMAN2016",
   "projectId": "pd;creator;t;/;pd;ProjId",
   "project": {
-    "url": "https://forum-shaman2016.vercel.app"
+    "url": "https://forum-shaman2016.vercel.app",
   },
   "env": {},
   "Dependencies": {
-    "forum-shaman2016/engine": "0.0.1"
+    "forum-shaman2016/engine": "0.0.1",
+    "SHAMAN2016/Type_ProgrammingLang": "1.0.0",
+    "SHAMAN2016/Type-papka.json": "0.1.0"
   },
   "src": "url;t;/src-project.type"
 }
