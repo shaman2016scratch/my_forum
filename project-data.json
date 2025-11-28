@@ -1,0 +1,18 @@
+{
+  "name": "forum shaman2016",
+  "ProjId": "ForumShaman2016@0.0.1"
+  "version": "0.0.1",
+  "versions": [
+    "0.0.1"
+  ],
+  "creator": "SHAMAN2016",
+  "projectId": "pd;creator;t;/;pd;ProjId",
+  "project": {
+    "url": "https://forum-shaman2016.vercel.app"
+  },
+  "env": {},
+  "Dependencies": {
+    "forum-shaman2016/engine": "0.0.1"
+  },
+  "src": "url;t;/src-project.type"
+}
