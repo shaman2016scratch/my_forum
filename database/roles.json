@@ -1,1 +1,12 @@
-[]
+[
+  "admin",
+  "user",
+  "creator",
+  "official",
+  "tech-admin",
+  "member-repo",
+  "RoleCreater",
+  "RoleAddUsers",
+  "banned",
+  "deleted"
+]
