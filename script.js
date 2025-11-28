@@ -7,3 +7,6 @@ if (sp.get('lang')) {
 } else {
   sp.set('lang', Doc.lang.value)
 }
+function UpdateLang() {
+  sp.set('lang', Doc.lang.value)
+}
