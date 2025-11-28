@@ -7,9 +7,9 @@
     "name": "Forum SHAMAN2016",
     "creator": "SHAMAN2016",
     "src": {
-      "main": "https://forum-shaman2016.vercel.com/",
-      "en-main": "https://forum-shaman2016.vercel.com/?lang=en",
-      "ru-main": "https://forum-shaman2016.vercel.com/?lang=ru"
+      "main": "https://forum-shaman2016.vercel.app",
+      "en-main": "https://forum-shaman2016.vercel.app/?lang=en",
+      "ru-main": "https://forum-shaman2016.vercel.app/?lang=ru"
     }
   },
   "elements": [
