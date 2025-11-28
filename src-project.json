@@ -1,0 +1,10 @@
+{
+  "dependencies.json": {
+    "type": "json",
+    "sod": {}
+  },
+  "dependencies.type": {
+    "type": "type",
+    "files": {}
+  } 
+}
