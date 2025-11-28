@@ -3,6 +3,7 @@
     "name": "SHAMAN2016",
     "isAdmin": true,
     "OnForum": "10&49&28&11&2025&UTC+0",
+    "id": 1,
     "Roles": [
       "admin",
       "user",
