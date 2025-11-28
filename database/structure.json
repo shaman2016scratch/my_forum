@@ -1,4 +1,33 @@
 {
-  "project": {},
-  "elements": []
+  "project": {
+    "langs": [
+      "Ru",
+      "En"
+    ],
+    "name": "Forum SHAMAN2016",
+    "creator": "SHAMAN2016",
+    "src": {
+      "main": "https://forum-shaman2016.vercel.com/",
+      "en-main": "https://forum-shaman2016.vercel.com/?lang=en",
+      "ru-main": "https://forum-shaman2016.vercel.com/?lang=ru"
+    }
+  },
+  "elements": [
+    {
+      "type": "chapter",
+      "name": {
+        "En": "main",
+        "Ru": "Главный раздел"
+      },
+      "forums": [
+        {
+          "type": "forum",
+          "name": {
+            "En": "Main forum",
+            "Ru": "Главный форум"
+          }
+        }
+      ]
+    }
+  ]
 }
