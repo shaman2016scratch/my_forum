@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "name": "Forum-by-SHAMAN2016",
+  "name": "forum-shaman2016",
   "builds": [
     {
       "src": "index.js",
