@@ -24,14 +24,5 @@
       "src": "/database/(.*)",
       "dest": "/database/$1"
     }
-  ],
-  "errors": {
-    "404": {
-      "source": "/(.*)",
-      "destination": "/404.html",
-      "headers": {
-        "content-type": "text/html"
-      }
-    }
-  }
+  ]
 }
