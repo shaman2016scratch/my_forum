@@ -9,8 +9,16 @@
   ],
   "routes": [
     {
+      "src": "/api/(.*)",
+      "dest": "/api/$1"
+    },
+    {
       "src": "/$",
       "dest": "/home.html"
+    },
+    {
+      "src": "/([^.]+)\\.(html|css|js)",
+      "dest": "/$1.$2"
     }
   ]
 }
