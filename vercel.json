@@ -39,6 +39,10 @@
         "content-type": "text/html"
       },
       "dest": "/404.html"
+    },
+    {
+      "src": "/",
+      "dest": "/index.html"
     }
   ]
 }
