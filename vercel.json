@@ -23,6 +23,22 @@
     {
       "src": "/api/(.*)",
       "dest": "/api/$1"
+    },
+    {
+      "src": "/(.*)",
+      "status": 403,
+      "headers": {
+        "content-type": "text/html"
+      },
+      "dest": "/403.html"
+    },
+    {
+      "src": "/(.*)",
+      "status": 404,
+      "headers": {
+        "content-type": "text/html"
+      },
+      "dest": "/404.html"
     }
   ]
 }
