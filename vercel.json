@@ -13,16 +13,12 @@
       "dest": "/api/$1"
     },
     {
-      "src": "^/$",
+      "src": "/$",
       "dest": "/index.html"
     },
     {
-      "src": "^/([^.]+)\\.(html|css|js)$",
+      "src": "/([^.]+)\\.(html|css|js)",
       "dest": "/$1.$2"
-    },
-    {
-      "src": "/database/(.*)",
-      "dest": "/database/$1"
     }
   ]
 }
