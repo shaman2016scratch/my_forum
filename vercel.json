@@ -28,7 +28,10 @@
   "errors": {
     "404": {
       "source": "/(.*)",
-      "destination": "/404.html"
+      "destination": "/404.html",
+      "headers": {
+        "content-type": "text/html"
+      }
     }
   }
 }
