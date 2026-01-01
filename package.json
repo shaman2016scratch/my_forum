@@ -6,6 +6,6 @@
   "license": "MIT",
   "dependencies": {},
   "devDependencies": {
-    "@vercel/node": "^5.9.3"
+    "@vercel/node": "5.0.0"
   }
 }
