@@ -1,2 +1,2 @@
 # my_forum
-My forum that uses Node.js, Python, ECMAScript, web and Type.
+My forum that uses Node.js, Base (browser) JavaScript, web and Type.
